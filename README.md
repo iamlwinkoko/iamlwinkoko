@@ -154,26 +154,6 @@ I share practical articles about **AWS, DevOps, cloud infrastructure, automation
 
 ---
 
-## 📈 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=iamlwinkoko&show_icons=true&hide_border=true" height="165" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamlwinkoko&layout=compact&hide_border=true" height="165" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamlwinkoko&hide_border=true" width="100%" />
-
-</div>
-
----
-
 ## 📚 Continuous Learning
 
 I'm continuously strengthening my knowledge through hands-on projects in:
