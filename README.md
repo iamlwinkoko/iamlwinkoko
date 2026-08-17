@@ -4,7 +4,7 @@
 
 ### DevOps / Cloud Engineer | Platform Engineer ☁️
 
-Building reliable cloud infrastructure, automating repetitive operations, and improving delivery with **AWS, Terraform, Kubernetes, Argo CD, CI/CD, and DevOps practices**.
+Building reliable cloud infrastructure, automating repetitive operations, and improving delivery with **AWS, Terraform, Kubernetes, Argo CD, CI/CD, and Platform Engineering practices**.
 
 📍 United Arab Emirates
 
@@ -18,13 +18,15 @@ Building reliable cloud infrastructure, automating repetitive operations, and im
 
 ## 🚀 About Me
 
-* ☁️ Working with **AWS cloud infrastructure and automation**
-* 🏗️ Building infrastructure using **Terraform and Infrastructure as Code**
-* ☸️ Working with **Kubernetes, Amazon EKS, and containerized workloads**
-* 🔄 Building **CI/CD and GitOps workflows with GitHub Actions, Jenkins, and Argo CD**
-* 🌐 Interested in **cloud networking, multi-VPC, and multi-account architectures**
-* 🐧 Working extensively with **Linux, scripting, monitoring, and troubleshooting**
-* 🤖 Automating operational tasks using **Python, Bash, PowerShell, and serverless services**
+* ☁️ Building and operating AWS cloud infrastructure with a focus on reliability, automation, and scalability
+* 🏗️ Managing infrastructure through Terraform and Infrastructure as Code
+* ☸️ Working with Kubernetes and Amazon EKS, backed by CKA & CKAD certification
+* 🔄 Building CI/CD and GitOps workflows using GitHub Actions, Jenkins, GitLab CI and Argo CD
+* 🌐 Working with AWS networking, private connectivity, Transit Gateway, routing, and multi-account architectures
+* 🛠️ Automating infrastructure and operational workflows using Python, Bash, PowerShell, and Ansible
+* 📊 Working with monitoring, observability, Linux administration, and production troubleshooting
+* 🔐 Applying cloud security, IAM, and infrastructure best practices
+* 🚀 Growing toward Platform Engineering, with a focus on reusable infrastructure, automation, and developer enablement
 * ✍️ Sharing hands-on **AWS, DevOps, cloud architecture, and troubleshooting** knowledge
 
 ---
@@ -138,10 +140,11 @@ AWS Elastic Kubernetes Service infrastructure provisioned using Terraform.
 🚀  GitOps & Argo CD
 🔄  CI/CD Automation
 🌐  Cloud Networking
-🔐  Cloud Security
+🔐  Cloud Security & IAM
 📊  Monitoring & Observability
 🐧  Linux Administration
 🛠️  Production Troubleshooting
+⚙️ Platform Engineering
 ```
 
 ---
